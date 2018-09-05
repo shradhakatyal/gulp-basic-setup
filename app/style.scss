@@ -1,0 +1,17 @@
+div {
+    display: block;
+    &.content {
+        position: relative;
+    }
+    p {
+        color: #000;
+    }
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
